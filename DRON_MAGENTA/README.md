@@ -82,6 +82,8 @@ Povezivanje OpenHD sistema obuhvata:
 
 Za buduce upravljanje dronom planirano je koriscenje joystick-a. Joystick je povezan sa OpenHD ground unit-om i testirano je uspesno primanje komandi sa joystick-a. Na taj nacin je provereno da ground unit moze da detektuje ulazne komande, sto predstavlja osnovu za kasnije povezivanje joystick upravljanja sa flight controller-om.
 
+YOUTUBE SNIMAK: https://youtube.com/shorts/vHXbZhPBSl8?si=-V2OrkggPQL_lESc
+
 
 
 
